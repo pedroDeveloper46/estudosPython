@@ -19,3 +19,9 @@ print('Está tudo em minusculo? {}'.format(isLower))
 
 isSpace = algo.isspace()
 print('É um espaço? {}'.format(isSpace))
+
+
+var = 'Pedro46'
+
+isAlpha = var.isalnum()
+print(isAlpha)
